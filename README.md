@@ -10,7 +10,10 @@ Tämä projekti on toteutettu opettajien esimerkkien pohjalta ja siihen on käyt
 
 ## Kuvakaappaukset projektin käyttöliittymästä:
 
-
+![alt text](https://github.com/GhostZp/Urbex-react-project/blob/master/ss/Screenshot%202026-03-09%20141727.png?raw=true)
+![alt text](https://github.com/GhostZp/Urbex-react-project/blob/master/ss/Screenshot%202026-03-09%20141748.png?raw=true)
+![alt text](https://github.com/GhostZp/Urbex-react-project/blob/master/ss/Screenshot%202026-03-09%20141759.png?raw=true)
+![alt text](https://github.com/GhostZp/Urbex-react-project/blob/master/ss/Screenshot%202026-03-09%20141816.png?raw=true)
 
 ## Mitä minä olen tehnyt:
 
